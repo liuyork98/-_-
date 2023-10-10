@@ -1,0 +1,20 @@
+hr{
+  color:#404040
+}
+h2{
+  padding-left:120px
+}
+footer{
+  background:#393939;
+  color:#fff; 
+  padding:15px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.ref{
+	position:relative;
+	right:170px;
+  
+}
